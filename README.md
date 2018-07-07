@@ -1,2 +1,1 @@
-# liuchristin4.github.io
-personal website
+# personal-site
