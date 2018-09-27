@@ -21,6 +21,10 @@
     100% { opacity:1; }
 }
 
+body {
+   background-image: url("graph.png");
+}
+
 ul {
     list-style-type: none;
     margin: 0;
